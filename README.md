@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-# 👋 Hi, I’m Jonathan Mwanza
+# 👋 Hi, I’m White Wizard 
 
 Welcome to my GitHub profile! Here’s a little about me:  
 
