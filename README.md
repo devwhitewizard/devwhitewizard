@@ -1,7 +1,7 @@
 # 👋 Hi, I'm White Wizard  
 ### 💻 Python Developer | Web Enthusiast  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+White+Wizard;Web+Designer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+White+Wizard;Software+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ---
  
