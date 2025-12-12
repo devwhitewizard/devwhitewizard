@@ -29,9 +29,10 @@ I'm **White Wizard**, a developer with a passion for **Python** and front-end de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwhitewizard&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devwhitewizard&theme=tokyonight)
+![GitHub Streak](https://git.io/streak-stats?user=devwhitewizard&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=WhiteWizard&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=devwhitewizard&theme=tokyonight)
+
 
 
 
