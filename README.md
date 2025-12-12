@@ -25,15 +25,7 @@ I'm **White Wizard**, a developer with a passion for **Python** and front-end de
 ---
   
 ### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwhitewizard&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwhitewizard&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://git.io/streak-stats?user=devwhitewizard&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=devwhitewizard&theme=tokyonight)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
 
 ---
