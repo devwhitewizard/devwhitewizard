@@ -24,15 +24,10 @@ I'm **White Wizard**, a developer with a passion for **Python** and front-end de
 
 ---
   
-### 📊 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=billyphosly4&theme=algolia&show_icons=true&count_private=true&hide_title=true)
---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devwhitewizard&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gloryakinyi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gloryakinyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api?username=devwhitewizard&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devwhitewizard&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devwhitewizard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
